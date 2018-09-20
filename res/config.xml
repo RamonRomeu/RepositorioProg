@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Enemigos>
+<enemigo>
+    <nombre>Peter</nombre>
+    <vitalidad>200</vitalidad>
+    <daño>84</daño>
+    <defensa>777</defensa>
+	<frecuencia>123</frecuencia>
+	<experiencia>23</experiencia>
+	<conjunto>
+	<arma> 
+	<id>1</id>
+	<tipo>Arco</tipo>
+	<alcance>20</alcance>
+	</arma>
+	<arma> 
+	<id>5</id>
+	<tipo>Escudo</tipo>
+	<alcance>20</alcance>
+	</arma>
+	</conjunto>
+</enemigo>
+
+<enemigo>
+    <nombre>Antonio</nombre>
+    <vitalidad>200</vitalidad>
+    <daño>84</daño>
+    <defensa>777</defensa>
+	<frecuencia>123</frecuencia>
+	<experiencia>23</experiencia>
+	<conjunto>
+	<arma> 
+	<id>2</id>
+	<tipo>Farola</tipo>
+	<alcance>20</alcance>
+	</arma>
+	</conjunto>
+</enemigo>
+
+<enemigo>
+    <nombre>Joan</nombre>
+    <vitalidad>200</vitalidad>
+    <daño>84</daño>
+    <defensa>777</defensa>
+	<frecuencia>123</frecuencia>
+	<experiencia>23</experiencia>
+	<conjunto>
+	<arma> 
+	<id>3</id>
+	<tipo>Daga</tipo>
+	<alcance>20</alcance>
+	</arma>
+	</conjunto>
+</enemigo>
+
+<enemigo>
+    <nombre>Eustaqui</nombre>
+    <vitalidad>200</vitalidad>
+    <daño>84</daño>
+    <defensa>777</defensa>
+	<frecuencia>123</frecuencia>
+	<experiencia>23</experiencia>
+	<conjunto>
+	<arma> 
+	<id>4</id>
+	<tipo>Pistola</tipo>
+	<alcance>20</alcance>
+	</arma>
+	</conjunto>
+</enemigo>
+
+</Enemigos>
